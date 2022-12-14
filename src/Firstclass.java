@@ -6,6 +6,8 @@ public class Firstclass {
 
         System.out.println("Sheetal");
 
+        System.out.println("Sheetal");
+
     }
 
 }
