@@ -6,7 +6,8 @@ public class Print_face {
         //Print Face
 
         System.out.println("-------------------Print Face------------------");
-        System.out.println("   +\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"+ ");
+
+        System.out.println("  +\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"+ ");
         System.out.println(" [|     @     @    |] ");
         System.out.println("  |                | ");
         System.out.println("  |        ^       | ");

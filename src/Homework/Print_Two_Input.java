@@ -8,5 +8,5 @@ public class Print_Two_Input {
         System.out.println("Input first number: " + a);
         System.out.println("Input second number: " + b);
         System.out.println("Expected output: " + a + " x " + b + " = " + c);
-}
+    }
 }
